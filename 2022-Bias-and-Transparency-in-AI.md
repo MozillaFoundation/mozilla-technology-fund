@@ -1,6 +1,8 @@
+# 2022: Bias and Transparency in AI
+
 ## Funding focus
 
-The Mozilla Technology Fund's inaugural cohort focused on reducing the bias in and increasing the transparency of artificial intelligence (AI) systems. Awards of up to $50,000 USD were made to projects that aimed to expose the inner workings of AI systems.
+The Mozilla Technology Fund's [inaugural cohort](https://foundation.mozilla.org/en/blog/introducing-the-first-ever-mozilla-technology-fund-cohort/) focused on reducing the bias in and increasing the transparency of artificial intelligence (AI) systems. Awards of up to $50,000 USD were made to projects that aimed to expose the inner workings of AI systems.
 
 
 
