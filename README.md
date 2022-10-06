@@ -3,4 +3,7 @@ This repository contains a listing of projects which have received awards from [
 * This repository is a work-in-progress; new projects and committee members will be added as new awards are made
 * Projects are listed in individual files by track and are ordered by the year in which the award was given
 * If you are an MTF awardee or committee member and would like us to change any information about your project, please open an issue or better yet, send us a pull request!
-* Want to learn more about the Mozilla Technology Fund or apply for an award? Please visit [the Mozilla Foundation website](https://foundation.mozilla.org/en/what-we-fund/awards/mozilla-technology-fund-mtf/) to learn more
+* Want to learn more about the Mozilla Technology Fund or apply for an award? Please visit [the Mozilla Foundation website](https://foundation.mozilla.org/en/what-we-fund/awards/mozilla-technology-fund-mtf/) to learn about our current calls for proposals
+
+## Past funding tracks
+* [2022: Bias and Transparency in AI](/2022-Bias-and-Transparency-in-AI.md)
