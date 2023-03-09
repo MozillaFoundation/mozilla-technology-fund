@@ -18,8 +18,8 @@ The awardees which were selected for the 2022 cohort were as follows:
 |[Crossover](https://checkfirst.network/)|Check First|Finland|
 |[Evaluation Harness](https://bigscience.huggingface.co/)|Big Science|U.S.|
 |[Gigbox](https://hci.princeton.edu/wao/)|The Workers’ Algorithm Observatory (WAO) |U.S.|
-|[Reward Reports](https://geesegraduates.org/)|GEESE|U.S.|
-|[Zeno](https://www.cmu.edu/)|Carnegie Mellon University|U.S.|
+|[Reward Reports](https://rewardreports.github.io/)|GEESE|U.S.|
+|[Zeno](https://zenoml.com/)|Carnegie Mellon University|U.S.|
 
 
 
