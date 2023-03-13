@@ -33,7 +33,7 @@ The selection commitee for the 2022 awards consisted of the following experts:
 
 ## Program staff
 
-The staff who ran the MTF 2023 cohort consisted of the following Mozilla Foundation employees:
+The staff who ran the MTF 2022 cohort consisted of the following Mozilla Foundation employees:
 
 |Name  | Role  |
 |---|---|
