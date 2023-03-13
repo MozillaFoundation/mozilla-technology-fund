@@ -36,3 +36,11 @@ The selection commitee for the 2023 awards consisted of the following experts:
 |[Deb Raji](https://en.wikipedia.org/wiki/Deborah_Raji)|University of California, Berkeley|
 |[E-M Lewis-Jong](https://commonvoice.mozilla.org)|Product Lead, Common Voice|
 
+## Program staff
+
+The staff who ran the MTF 2023 cohort consisted of the following Mozilla Foundation employees:
+
+|Name  | Role  |
+|---|---|
+|Mehan Jayasuriya|Senior Program Officer|
+|Jaselle Edward-Gill|Program Associate|
