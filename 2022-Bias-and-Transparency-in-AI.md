@@ -30,3 +30,11 @@ The selection commitee for the 2022 awards consisted of the following experts:
 |[Johann Diedrick](http://www.johanndiedrick.com/)|Artist, former Creative Media Awardee|
 |[Deb Raji](https://en.wikipedia.org/wiki/Deborah_Raji)|University of California, Berkeley|
 |[Becca Ricks](https://beccaricks.space/)|Senior Researcher, Mozilla Foundation|
+
+## Program staff
+
+The staff who ran the MTF 2023 cohort consisted of the following Mozilla Foundation employees:
+
+|Name  | Role  |
+|---|---|
+|Mehan Jayasuriya|Senior Program Officer|
