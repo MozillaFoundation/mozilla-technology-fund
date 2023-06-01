@@ -46,4 +46,4 @@ The staff who ran the MTF 2023 cohort consisted of the following Mozilla Foundat
 |Jaselle Edward-Gill|Program Associate|
 
 ## Blog Posts
-* [Auditing AI: Announcing the 2023 Mozilla Technology Fund Cohort]([https://foundation.mozilla.org/en/blog/introducing-the-first-ever-mozilla-technology-fund-cohort/](https://foundation.mozilla.org/en/blog/auditing-ai-announcing-the-2023-mozilla-technology-fund-cohort/))
+* [Auditing AI: Announcing the 2023 Mozilla Technology Fund Cohort](https://foundation.mozilla.org/en/blog/auditing-ai-announcing-the-2023-mozilla-technology-fund-cohort/)
