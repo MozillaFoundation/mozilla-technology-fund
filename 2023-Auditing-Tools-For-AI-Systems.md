@@ -47,3 +47,8 @@ The staff who ran the MTF 2023 cohort consisted of the following Mozilla Foundat
 
 ## Blog Posts
 * [Auditing AI: Announcing the 2023 Mozilla Technology Fund Cohort](https://foundation.mozilla.org/en/blog/auditing-ai-announcing-the-2023-mozilla-technology-fund-cohort/)
+* [Reward Reports: An audit tool to better document AI](https://foundation.mozilla.org/en/blog/reward-reports-an-audit-tool-to-better-document-ai/)
+* [Giving Gig Workers the Transparency They Deserve](https://foundation.mozilla.org/en/blog/giving-gig-workers-the-transparency-they-deserve/)
+* [Evaluation Harness Is Setting the Benchmark for Auditing Large Language Models](https://foundation.mozilla.org/en/blog/evaluation-harness-is-setting-the-benchmark-for-auditing-large-language-models/)
+* [How to Hold AI Landlords Accountable](https://foundation.mozilla.org/en/blog/how-to-hold-ai-landlords-accountable/)
+* [Dope Puffer for Pope: How AI Risk Database is Building a Case for Proper AI Auditing](https://foundation.mozilla.org/en/blog/dope-puffer-for-pope-how-ai-risk-database-is-building-a-case-for-proper-ai-auditing/)
