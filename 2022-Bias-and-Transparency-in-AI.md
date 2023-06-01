@@ -41,3 +41,9 @@ The staff who ran the MTF 2022 cohort consisted of the following Mozilla Foundat
 
 ## Blog Posts
 * [Introducing the First Ever Mozilla Technology Fund Cohort](https://foundation.mozilla.org/en/blog/introducing-the-first-ever-mozilla-technology-fund-cohort/)
+* [Access Denied! This Doesn’t Sound Like You](https://foundation.mozilla.org/en/blog/access-denied-this-doesnt-sound-like-you/)
+* [TheirTok Will Peek Inside TikTok Filter Bubbles](https://foundation.mozilla.org/en/blog/theirtok-will-peek-inside-tiktok-filter-bubbles/)
+* [FairEVA Is Breaking New Ground In Identifying Bias in Voice Recognition](https://foundation.mozilla.org/en/blog/faireva-is-breaking-new-ground-in-identifying-bias-in-voice-recognition/)
+* [Exposing the Sexism in Generative AI](https://foundation.mozilla.org/en/blog/exposing-the-sexism-in-generative-ai/)
+* [A New Way to Keep TikTok Accountable](https://foundation.mozilla.org/en/blog/a-new-way-to-keep-tiktok-accountable/)
+* [One Year of Holding TikTok Accountable](https://foundation.mozilla.org/en/blog/one-year-of-holding-tiktok-accountable/)
