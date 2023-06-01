@@ -38,3 +38,6 @@ The staff who ran the MTF 2022 cohort consisted of the following Mozilla Foundat
 |Name  | Role  |
 |---|---|
 |Mehan Jayasuriya|Senior Program Officer|
+
+## Blog Posts
+* [Introducing the First Ever Mozilla Technology Fund Cohort](https://foundation.mozilla.org/en/blog/introducing-the-first-ever-mozilla-technology-fund-cohort/)
