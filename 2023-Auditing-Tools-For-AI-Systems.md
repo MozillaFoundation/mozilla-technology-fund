@@ -53,3 +53,4 @@ The staff who ran the MTF 2023 cohort consisted of the following Mozilla Foundat
 * [How to Hold AI Landlords Accountable](https://foundation.mozilla.org/en/blog/how-to-hold-ai-landlords-accountable/)
 * [Dope Puffer for Pope: How AI Risk Database is Building a Case for Proper AI Auditing](https://foundation.mozilla.org/en/blog/dope-puffer-for-pope-how-ai-risk-database-is-building-a-case-for-proper-ai-auditing/)
 * [Zeno: An Interactive Tool For AI Model Evaluation](https://foundation.mozilla.org/en/blog/zeno-an-interactive-tool-for-ai-model-evaluation/)
+* [AI Forensics: The Detectives Researching AI Harms](https://foundation.mozilla.org/en/blog/ai-forensics-the-detectives-researching-ai-harms/)
