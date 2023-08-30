@@ -40,6 +40,7 @@ The staff who ran the MTF 2022 cohort consisted of the following Mozilla Foundat
 |Mehan Jayasuriya|Senior Program Officer|
 
 ## Blog Posts
+* [New Mozilla Awards Seek to Mitigate Bias, Increase Transparency in AI Systems](https://foundation.mozilla.org/en/blog/new-mozilla-awards-seek-to-mitigate-bias-increase-transparency-in-ai-systems/)
 * [Introducing the First Ever Mozilla Technology Fund Cohort](https://foundation.mozilla.org/en/blog/introducing-the-first-ever-mozilla-technology-fund-cohort/)
 * [Access Denied! This Doesn’t Sound Like You](https://foundation.mozilla.org/en/blog/access-denied-this-doesnt-sound-like-you/)
 * [TheirTok Will Peek Inside TikTok Filter Bubbles](https://foundation.mozilla.org/en/blog/theirtok-will-peek-inside-tiktok-filter-bubbles/)
