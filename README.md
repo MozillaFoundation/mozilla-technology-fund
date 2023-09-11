@@ -8,3 +8,4 @@ This repository contains a listing of projects which have received awards from [
 ## Past funding tracks
 * [2022: Bias and Transparency in AI](/2022-Bias-and-Transparency-in-AI.md)
 * [2023: Auditing Tools for AI Systems](/2023-Auditing-Tools-For-AI-Systems.md)
+* [2024: AI and Environmental Justice](/2024-AI-and-Environmental-Justice.md)
