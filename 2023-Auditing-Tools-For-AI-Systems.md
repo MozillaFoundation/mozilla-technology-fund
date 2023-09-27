@@ -12,9 +12,9 @@ The awardees which were selected for the 2022 cohort were as follows:
 
 | Project Name  | Awardee  | Location |
 |---|---|---|
-|[AI Forensics](https://docs.tracking.exposed/guardoni/guardoni-intro/)|Tracking Exposed|France|
+|[AI Forensics](https://aiforensics.org)|Tracking Exposed|France|
 |[AI Risk Checklists](https://incidentdatabase.ai/)|Responsible AI Collaborative|U.S.|
-|[Countering Tenant Screening](https://wonyoung.so/)|Wonyoung So|U.S.|
+|[Countering Tenant Screening](https://open-tss.net/)|Wonyoung So|U.S.|
 |[Crossover](https://checkfirst.network/)|Check First|Finland|
 |[Evaluation Harness](https://bigscience.huggingface.co/)|Big Science|U.S.|
 |[Gigbox](https://hci.princeton.edu/wao/)|The Workers’ Algorithm Observatory (WAO) |U.S.|
