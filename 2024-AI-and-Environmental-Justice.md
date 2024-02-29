@@ -7,7 +7,18 @@ For the past two years, the Mozilla Technology Fund has funded research and deve
 
 ## Awardees
 
-To be announced.
+| Project Name  | Awardee  | Location |
+|---|---|---|
+|[Leveraging AI for Environmental Justice](https://foundation.mozilla.org/en/blog/open-source-AI-for-environmental-justice/)|Center for Justice Governance & Environmental (ACTI)|Kenya|
+|[AIG SMS for the Mau](https://foundation.mozilla.org/en/blog/open-source-AI-for-environmental-justice/)|L. Lusike Mukhongo|Kenya/U.S.|
+|[Estimating and Validating PM2.5 Levels](https://github.com/airqo-platform/)|AirQo|Uganda|
+|[Air Quality for Asunción](https://ieeexplore.ieee.org/document/10346175)|Fernanda Carlés|Paraguay|
+|[Amazon Mining Watch](https://github.com/earthrise-media/mining-detector)|Rainforest Investigations Network/Earth Genome/Amazon Conservation|U.S.|
+|[Public Utility Data Liberation](https://github.com/catalyst-cooperative/pudl)|Catalyst Coop|U.S.|
+|[CodeCarbon](https://github.com/mlco2/codecarbon)|CodeCarbon|France|
+|[MethaneMapper](https://github.com/UCSB-VRL/MethaneMapper-Spectral-Absorption-aware-Hyperspectral-Transformer-for-Methane-Detection)|EyeClimate|U.S.|
+|[Sand Mining Watch](https://github.com/BerkeleySandProject/sandmining-watch)|University of California, Berkeley|India/U.S.|
+|[Zeus](https://github.com/ml-energy/zeus)|Jae-Won Chung|U.S.|
 
 
 
