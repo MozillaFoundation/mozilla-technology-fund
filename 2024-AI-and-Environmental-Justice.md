@@ -24,7 +24,12 @@ For the past two years, the Mozilla Technology Fund has funded research and deve
 
 ## Selection committee
 
-To be announced.
+|Name  | Affiliation  |
+|---|---|
+|[Lisa Gutermuth](https://foundation.mozilla.org/en/data-futures-lab/)|Program Officer, Data Futures Lab|
+|[Bogdana Rakova](https://bobirakova.com/)|Senior Trustworthy AI Fellow, Mozilla Foundation|
+|[Maya Richman](https://greenscreen.network/en/)|Co-Lead, Green Screen Coalition|
+|Jenny Wong|Sustainability Lead, Mozilla Corporation|
 
 ## Program staff
 
@@ -38,3 +43,4 @@ The staff who ran the MTF 2024 cohort consisted of the following Mozilla Foundat
 
 ## Blog Posts
 * [Mozilla Technology Fund Seeks Projects at Intersection of AI, Environmental Justice](https://foundation.mozilla.org/en/blog/mozilla-technology-fund-seeks-projects-at-intersection-of-ai-environmental-justice/)
+* [Open-Source AI for Environmental Justice: Introducing the 2024 Mozilla Technology Fund Cohort](https://foundation.mozilla.org/en/blog/open-source-AI-for-environmental-justice/)
