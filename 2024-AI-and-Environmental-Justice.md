@@ -17,7 +17,7 @@ For the past two years, the Mozilla Technology Fund has funded research and deve
 |[Public Utility Data Liberation](https://github.com/catalyst-cooperative/pudl)|Catalyst Coop|U.S.|
 |[CodeCarbon](https://github.com/mlco2/codecarbon)|CodeCarbon|France|
 |[MethaneMapper](https://github.com/UCSB-VRL/MethaneMapper-Spectral-Absorption-aware-Hyperspectral-Transformer-for-Methane-Detection)|EyeClimate|U.S.|
-|[Sand Mining Watch](https://github.com/BerkeleySandProject/sandmining-watch)|University of California, Berkeley|India/U.S.|
+|[Sand Mining Watch](http://www.globalpolicy.science/sand-mining-watch)|University of California, Berkeley|India/U.S.|
 |[Zeus](https://github.com/ml-energy/zeus)|Jae-Won Chung|U.S.|
 
 
