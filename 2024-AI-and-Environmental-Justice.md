@@ -45,3 +45,8 @@ The staff who ran the MTF 2024 cohort consisted of the following Mozilla Foundat
 * [Mozilla Technology Fund Awardee AirQo Announces African Air Quality Prediction Challenge](https://foundation.mozilla.org/en/blog/mozilla-technology-fund-awardee-airqo-announces-african-air-quality-prediction-challenge/)
 * [Mozilla Technology Fund Seeks Projects at Intersection of AI, Environmental Justice](https://foundation.mozilla.org/en/blog/mozilla-technology-fund-seeks-projects-at-intersection-of-ai-environmental-justice/)
 * [Open-Source AI for Environmental Justice: Introducing the 2024 Mozilla Technology Fund Cohort](https://foundation.mozilla.org/en/blog/open-source-AI-for-environmental-justice/)
+
+## Videos
+* [AI Climate Change Tracking](https://www.linkedin.com/events/7183104836186374145/comments/)
+* [How Much Carbon is Created From Everyday Computer Tasks?](https://www.instagram.com/mozilla/reel/C4d3SLygqnw/)
+* [How CodeCarbon is Helping the Environment](https://www.instagram.com/mozilla/reel/C5mCuFTg1Tn/)
