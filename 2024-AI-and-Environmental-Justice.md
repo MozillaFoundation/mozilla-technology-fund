@@ -42,6 +42,7 @@ The staff who ran the MTF 2024 cohort consisted of the following Mozilla Foundat
 |Bogdana Rakova|Senior Trustworthy AI Fellow|
 
 ## Blog Posts
+* [Uniting Minds: Reflections from MozFest House Amsterdam](https://foundation.mozilla.org/en/blog/uniting-minds-reflections-from-mozfest-house-amsterdam/)
 * [Mozilla Technology Fund Awardee AirQo Announces African Air Quality Prediction Challenge](https://foundation.mozilla.org/en/blog/mozilla-technology-fund-awardee-airqo-announces-african-air-quality-prediction-challenge/)
 * [Mozilla Technology Fund Seeks Projects at Intersection of AI, Environmental Justice](https://foundation.mozilla.org/en/blog/mozilla-technology-fund-seeks-projects-at-intersection-of-ai-environmental-justice/)
 * [Open-Source AI for Environmental Justice: Introducing the 2024 Mozilla Technology Fund Cohort](https://foundation.mozilla.org/en/blog/open-source-AI-for-environmental-justice/)
