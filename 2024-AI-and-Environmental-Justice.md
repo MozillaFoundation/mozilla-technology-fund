@@ -38,7 +38,7 @@ The staff who ran the MTF 2024 cohort consisted of the following Mozilla Foundat
 |Name  | Role  |
 |---|---|
 |Mehan Jayasuriya|Senior Program Officer|
-|Jaselle Edward-Gill|Program Associate|
+|Katie Schneider|Program Associate|
 |Bogdana Rakova|Senior Trustworthy AI Fellow|
 
 ## Blog Posts
